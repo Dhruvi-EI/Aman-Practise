@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Jyoti prajapati
-=======
-Hello jyoti
->>>>>>> feature
+hello jyoti
