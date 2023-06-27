@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jyoti prajapati
+=======
+Hello jyoti
+>>>>>>> feature
